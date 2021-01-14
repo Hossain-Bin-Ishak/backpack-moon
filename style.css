@@ -116,7 +116,6 @@ p{
 .icon-area-right-img img{
     width: 90%;
     margin-left: 8%;
-    overflow: hidden;
 }
 
 .casual-backpack-area{
@@ -231,7 +230,7 @@ p{
  }
 
  .footer-menu-area{
-       margin-bottom: 50px;
+    margin-bottom: 50px;
       
  }
 
