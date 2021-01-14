@@ -18,8 +18,8 @@ p{
     padding-top: 5px;
 }
 
-.logo img{
-    width: 100%;
+.navbar-brand img{
+    width: 250px;
 }
 
 .menu{
@@ -230,11 +230,11 @@ p{
  }
 
  .footer-menu-area{
-    margin-bottom: 50px;
+    margin-bottom: 10px;
       
  }
 
- .footer-menu, .newslatter-area{
+  .footer-menu, .newslatter-area{
     margin-top: 10px;
  }
 .footer-menu h4{
@@ -287,6 +287,9 @@ input[type="button"]:hover{
     background-color: #76C27E;
 }
 
+.text-center {
+    margin-top: 10px;
+}
 
 @media (min-width: 500px) { 
 
@@ -308,8 +311,16 @@ input[type="button"]:hover{
     .casual-backpack {
         margin-bottom: 30px;
     }
-  }
 
+   #navbarNav ul li a{
+        color:#3C3C3C;
+        font-weight: 700;
+   }
+
+
+  #copyright-text{
+      margin-top: 20px;
+  }
 
 @media (min-width: 576px) { 
 
@@ -322,7 +333,7 @@ input[type="button"]:hover{
     .casual-backpack {
         margin-bottom: 30px;
     }
-}
+   }
 
 @media (min-width: 768px) {
     .buy-backpack-btn {
