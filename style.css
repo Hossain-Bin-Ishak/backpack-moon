@@ -34,7 +34,7 @@ p{
 
 }
 
-.custom-navbar ul li a{
+#navbarNav ul li a{
     color: #3C3C3C !important;
     font-weight: 500;
 }
