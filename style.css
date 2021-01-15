@@ -174,7 +174,7 @@ p{
     font-weight: 500;
     padding: 15px 25px;
     border-radius: 10px;
-    margin-left: 30%;
+    
     }
 
 .buy-backpack-btn:hover{
@@ -212,6 +212,7 @@ p{
 .fa-map-marker-alt{
     font-size: 25px;
     margin-right: 10px;
+    
 }
 
 .fa-envelope{
@@ -222,6 +223,19 @@ p{
 .fa-phone-alt{
     font-size: 25px;
     margin-right: 10px;
+}
+
+.fa-facebook-square{
+    color: #2A1E59;
+}
+.fa-twitter-square{
+    color: #2A1E59;
+}
+.fa-pinterest-square{
+   color: #2A1E59;
+}
+.fa-linkedin{
+    color: #2A1E59;
 }
 
 .social-icon{
@@ -305,9 +319,7 @@ input[type="button"]:hover{
         margin-bottom: 75px;
     
     }
-    .buy-backpack-btn {
-        margin-left: 50%;
-    }
+
     .casual-backpack {
         margin-bottom: 30px;
     }
@@ -327,40 +339,28 @@ input[type="button"]:hover{
     .icon-area-right-img img {
         margin-top: 10%;
     }
-    .buy-backpack-btn {
-        margin-left: 55%;
-    }
+
     .casual-backpack {
         margin-bottom: 30px;
     }
    }
 
 @media (min-width: 768px) {
-    .buy-backpack-btn {
-        margin-left: -35%;
+
       }
 
-   }
-
 @media (min-width: 992px) { 
-
-    .buy-backpack-btn {
-      margin-left: 14%;
-    }
     .icon-area{
         margin-top: 150px;
         margin-bottom: 150px;
-    
     }
+    
   }
 
 
 @media (min-width: 1200px) { 
     
-    .buy-backpack-btn {
-        margin-left: 30%;
-           
-    }
+ 
     }
 
 @media (min-width: 1400px) { 
